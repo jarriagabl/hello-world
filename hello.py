@@ -1,1 +1,2 @@
-print("Hello")
+def g(x):
+	print(x)
